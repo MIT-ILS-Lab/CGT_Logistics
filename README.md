@@ -25,7 +25,6 @@ The notebook "graphs_plots" contains the functions used to plot the graphs that 
 3. Analyze the output files using the graphing notebook in "Int_results".
 
 ## Requirements
-
 - Python 3.10.12
 - CPLEX IBM Solver 22.1.1
 - Pyomo 6.8.2 (for running the MILP models)
@@ -34,3 +33,15 @@ The notebook "graphs_plots" contains the functions used to plot the graphs that 
 
 ## License
 This repository is licensed under the MIT License
+
+
+## Optimization model code
+The base optimization model code used for the simulation experiments in this thesis is the open-source i-SHIPMENT platform developed by Niki Triantafyllou at the Papathanasiou Lab at Imperial College London, which can be found in the following repository:
+GitHub repository: [https://github.com/papathanlab/i-SHIPMENT](https://github.com/papathanlab/i-SHIPMENT)
+
+## Citation
+Triantafyllou, N., Bernardi, A., Lakelin, M. et al.  
+*A digital platform for the design of patient-centric supply chains.*  
+Scientific Reports *12*, 17365 (2022).  
+[https://doi.org/10.1038/s41598-022-21290-5](https://doi.org/10.1038/s41598-022-21290-5)
+
